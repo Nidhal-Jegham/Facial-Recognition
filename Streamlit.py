@@ -33,7 +33,6 @@ def main():
     
     age_classes=['1-2','3-9','10-20','21-27','28-45','46-65','+66']
     gender_classes=['Man','Woman']
-    race_classes=['1',"2","3","4","h5"]
     
     st.title("""
 
@@ -336,7 +335,7 @@ def main():
                     features_gray=np.array(features_gray)
             
                     face_age = age_classes[np.argmax(age_model.predict(features_gray))]
-                    face_age= "21-27"+' Years Old'
+                    face_age= face_age+' Years Old'
                     face_gender = gender_classes[np.argmax(gender_model.predict(features_rgb_gender))]
                     
     
