@@ -23,8 +23,6 @@ To run this project locally, follow these steps:
 - Upload images or videos to test the facial recognition model.
 - Adjust parameters as needed to see real-time results.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 - UTK Faces dataset
