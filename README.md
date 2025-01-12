@@ -26,8 +26,6 @@ To run this project locally, follow these steps:
 
 ## Acknowledgements
 - UTK Faces dataset
-- Streamlit
-- Convolutional Neural Networks (CNNs)
 - Collaboration with Melab Elhadj
 
 Feel free to explore the project and provide feedback or contributions!
